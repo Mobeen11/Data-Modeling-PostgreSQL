@@ -1,4 +1,4 @@
-# Udacity-ETL-PostgreSQL
+# ETL-Pipeline-PostgreSQL
 
 ## Project Description
 
