@@ -1,4 +1,4 @@
-# ETL-Pipeline-PostgreSQL
+# ETL Data Modeling PostgreSQL
 
 ## Project Description
 
